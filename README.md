@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Fernando Ortiz
+- 👀 I’m interested in work in small/medium proyects, im studing in the University Nacional of La Plata
+- 🌱 I’m currently learning Python, and React. I like HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on a team developer cause im trainee
+- 📫 How to reach me: Fernandooxz1@gmai.com
+- 😄 Pronouns: Fer
